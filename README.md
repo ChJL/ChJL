@@ -1,8 +1,10 @@
-### <div align="center">Chih-Chieh, Data Engineer from Taiwan</div>
+### <div align="center">Chieh, Data Engineer from Taiwan</div>
 
 I have been working as Data engineer Intern in Amsterdam since Dec 2021. I'm now learning DevOps and Data Engineering related knowledge, and also doing my Master thesis in the University of Amsterdam.
 
 I'm a Travel lover, Skier, Guitarer, and also like Marathon, Badminton, Volleyball, and Hiking.
+
+Feel free to contact me :)
 
 ### Connect with me:
 
