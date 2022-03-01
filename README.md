@@ -1,4 +1,4 @@
-### <div align="center">Chieh, Data Engineer from Taiwan</div>
+### <div align="center">Chieh</div>
 
 I have been working as Data engineer Intern in Amsterdam since Dec 2021. I'm now learning DevOps and Data Engineering related knowledge, and also doing my Master thesis in the University of Amsterdam.
 
