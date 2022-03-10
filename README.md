@@ -4,7 +4,7 @@ I have been working as Data engineer Intern in Amsterdam since Dec 2021. I'm now
 
 I'm a Travel lover, Skier, Guitarer, and also like Marathon, Badminton, Volleyball, and Hiking.
 
-Feel free to contact me :)
+Feel free to contact me by any following platform:)
 
 ### Connect with me:
 
