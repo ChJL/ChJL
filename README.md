@@ -1,6 +1,6 @@
 ### <div align="center">Chieh</div>
 
-I have been working as Data engineer Intern in Amsterdam since Dec 2021. I'm now learning DevOps and Data Engineering related knowledge, and also doing my Master thesis in the University of Amsterdam.
+I have been working as Data engineer Intern in Amsterdam since Dec 2021. I'm now learning DevOps and Data Engineering related knowledge, and also doing my Master thesis in the University of Amsterdam. Also, I'm seeking new full time position for Junior Software Engineer or Data Engineer in the Nehterlands.
 
 I'm a Travel lover, Skier, Guitarer, and also like Marathon, Badminton, Volleyball, and Hiking.
 
