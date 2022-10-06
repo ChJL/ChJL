@@ -1,6 +1,6 @@
 ### <div align="center">Chieh</div>
 
-Programmer, Travel lover, Skier, Guitarer, and also like Marathon, Badminton, Volleyball, and Hiking.
+Software Engineer, Travel lover, Skier, Guitarer, and also like Marathon, Badminton, Volleyball, and Hiking.
 
 Feel free to contact me by any following platform:), or view my CV [here](https://cv.chihchiehlin.com).
 
